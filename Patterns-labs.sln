@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational", "Creational\Creational.csproj", "{CBA2A7F7-5512-4551-91A4-C823328DE6AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural", "Structural\Structural.csproj", "{30BED1B1-5052-4BE5-9DF0-2C8BCF975909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural", "Structural\Structural.csproj", "{30BED1B1-5052-4BE5-9DF0-2C8BCF975909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral", "Behavioral\Behavioral.csproj", "{21CEDDE4-77B7-4B90-98E4-5D4EB35AF023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{30BED1B1-5052-4BE5-9DF0-2C8BCF975909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30BED1B1-5052-4BE5-9DF0-2C8BCF975909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30BED1B1-5052-4BE5-9DF0-2C8BCF975909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CEDDE4-77B7-4B90-98E4-5D4EB35AF023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CEDDE4-77B7-4B90-98E4-5D4EB35AF023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CEDDE4-77B7-4B90-98E4-5D4EB35AF023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CEDDE4-77B7-4B90-98E4-5D4EB35AF023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
